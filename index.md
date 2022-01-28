@@ -1,6 +1,6 @@
 # Overview of the Sun
-## White Light Views (from https://sohowww.nascom.nasa.gov/sunspots/)
-
+## White Light Views
+A continuum intensity image of the Sun taken by the MDI instrument on board the [SOHO satellite](https://sohowww.nascom.nasa.gov/sunspots/)
 [<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width=800 align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
 
 [AstroMallorca](https://astromallorca.wordpress.com/)
