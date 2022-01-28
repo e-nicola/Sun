@@ -19,9 +19,8 @@ The Sun in H-alpha from GONG ([original data](https://gong2.nso.edu/products/tab
 
 [<img src="http://obs.astro.ucla.edu/images/cur_drw.jpg" width=450 align=left >](http://obs.astro.ucla.edu/images/cur_drw.jpg)
 
-<img src="http://obs.astro.ucla.edu/images/cur_drw.jpg" width=450 align=center >
+<img src="https://obs.astro.ucla.edu/images/cur_drw.jpg" width=450 align=center >
 
-[[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png|width=100px]]
 
 
 Page by Ernesto Nicola 
