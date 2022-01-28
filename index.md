@@ -5,6 +5,7 @@ Continuum intensity image of the Sun taken by the MDI instrument on board the [S
 
 SDO/HMI Quick-Look Continuum (2048x2048):
 [<img src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_2048_HMIIF.jpg" width="100%" align="center">](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_2048_HMIIF.jpg)
+
 SDO/HMI Quick-Look Continuum (1024x1024):
 [<img src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIIC.jpg" width="100%" align="center">](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIIC.jpg)
 
