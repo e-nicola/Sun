@@ -5,7 +5,6 @@ A continuum intensity image of the Sun taken by the MDI instrument on board the 
 
 Drawing from [Mt. Wilson Observatory](http://obs.astro.ucla.edu/cur_drw.html)
 [<img src="http://obs.astro.ucla.edu/images/cur_drw.jpg" width="1024" align="center">](http://obs.astro.ucla.edu/images/cur_drw.jpg)
-<img src="http://obs.astro.ucla.edu/images/cur_drw.jpg" width="1024" align="center">
 
 ## H-alpha Views
 The Sun in H-alpha from GONG ([original data](https://gong2.nso.edu/products/tableView/table.php?configFile=configs/hAlpha.cfg)):
@@ -19,8 +18,6 @@ The Sun in H-alpha from GONG ([original data](https://gong2.nso.edu/products/tab
 
 [<img src="http://obs.astro.ucla.edu/images/cur_drw.jpg" width=450 align=left >](http://obs.astro.ucla.edu/images/cur_drw.jpg)
 
-<img src="obs.astro.ucla.edu/images/cur_drw.jpg" width=450 align=center >
-
-
+  
 
 Page by Ernesto Nicola 
