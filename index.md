@@ -1,3 +1,4 @@
+Ernesto Nicola
 # Overview of the Sun
 ## White Light Daily Views
 Continuum intensity image of the Sun taken by the MDI instrument on board the [SOHO satellite](https://soho.nascom.nasa.gov/sunspots/) (1024x1024):
