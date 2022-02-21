@@ -29,7 +29,7 @@
 ## SOHO (NASA/ESA) <a name="SOHO"></a>
 * [SOHO NASA Page](https://www.nasa.gov/mission_pages/soho/index.html)
 * [SOHO NASCOM Page](https://soho.nascom.nasa.gov/home.html)
-  * [realtime-update (ETI 171, 195, 284, 304; LASCO C2 & C3; SDO/HMI Continuum & Magnetogram)](https://soho.nascom.nasa.gov/data/realtime/realtime-update.html#top)
+  * [realtime-update (ETI 171, 195, 284, 304; LASCO C2 & C3; SDO/HMI Continuum & Magnetogram)](https://soho.nascom.nasa.gov/data/realtime/realtime-update.html#top), corresponding description [here](https://soho.nascom.nasa.gov/data/realtime/image-description.html)
 * [SOHO Wikipedia Page](https://en.wikipedia.org/wiki/Solar_and_Heliospheric_Observatory)
 
 ## STEREO (NASA) <a name="STEREO"></a>
