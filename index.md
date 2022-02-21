@@ -1,4 +1,3 @@
-Ernesto Nicola
 # Overview of the Sun
 ## White Light Daily Views
 Continuum intensity image of the Sun taken by the MDI instrument on board the SOHO satellite [annotated (1024x1024)](https://soho.nascom.nasa.gov/sunspots/) (updated daily) or [unannotated (4096x4096)](http://jsoc.stanford.edu/data/hmi/images/latest/HMI_latest_Int_4096x4096.gif) (updated every 12 min.):
@@ -24,6 +23,6 @@ The Sun in H-alpha from GONG ([original data](https://gong2.nso.edu/products/tab
 
 [<img src="http://obs.astro.ucla.edu/images/cur_drw.jpg" width="49.7%" align=center >](http://obs.astro.ucla.edu/images/cur_drw.jpg)
 
-Page by [Ernesto Nicola](bio.md)
-
 See also [Intersing Links about the Sun](links.md)
+
+Page by [Ernesto Nicola](bio.md)
