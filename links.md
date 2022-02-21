@@ -20,18 +20,21 @@
 ## SDO (Solar Dynamic Observatory; NASA ) <a name="SDO"></a>
 * [SDO NASA Page](https://www.nasa.gov/mission_pages/sdo/how-sdo-sees-the-sun)
 * [SDO Wikipedia Page](https://en.wikipedia.org/wiki/Solar_Dynamics_Observatory)
+* [SDO Data](https://sdo.gsfc.nasa.gov/data/)
 
 ### SDO Instruments
 #### HMI: Helioseismic and Magnetic Imager
 * [Latest HMI Images](http://jsoc.stanford.edu/data/hmi/images/latest/)
+
 #### AIA: Atmospheric Imaging Assembly
+
 #### EVE: Extreme Ultraviolet Variability Experiment
 
 ## SOHO (NASA/ESA) <a name="SOHO"></a>
 * [SOHO NASA Page](https://www.nasa.gov/mission_pages/soho/index.html)
 * [SOHO NASCOM Page](https://soho.nascom.nasa.gov/home.html)
   * [realtime-update (ETI 171, 195, 284, 304; LASCO C2 & C3; SDO/HMI Continuum & Magnetogram)](https://soho.nascom.nasa.gov/data/realtime/realtime-update.html#top), corresponding description [here](https://soho.nascom.nasa.gov/data/realtime/image-description.html)
-  * [SOHI Fader](https://soho.nascom.nasa.gov/data/realtime/soho/soho_fader.html)
+  * [SOHO Fader](https://soho.nascom.nasa.gov/data/realtime/soho/soho_fader.html)
 * [SOHO Wikipedia Page](https://en.wikipedia.org/wiki/Solar_and_Heliospheric_Observatory)
 
 ## STEREO (NASA) <a name="STEREO"></a>
