@@ -38,6 +38,7 @@
 * [SOHO Wikipedia Page](https://en.wikipedia.org/wiki/Solar_and_Heliospheric_Observatory)
 
 ## STEREO (NASA) <a name="STEREO"></a>
+* [STEREO NASA Page](https://www.nasa.gov/mission_pages/stereo/main/index.html)
 * [STEREO NASCOM Page](https://stereo-ssc.nascom.nasa.gov/beacon/beacon_secchi.shtml)
 
 # Observatories on Earth <a name="earthobs"></a>
