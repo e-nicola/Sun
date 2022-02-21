@@ -1,7 +1,7 @@
 Ernesto Nicola
 # Overview of the Sun
 ## White Light Daily Views
-Continuum intensity image of the Sun taken by the MDI instrument on board the SOHO satellite [annotated (1024x1024)](https://soho.nascom.nasa.gov/sunspots/) or [unannotated (4096x4096)](http://jsoc.stanford.edu/data/hmi/images/latest/HMI_latest_Int_4096x4096.gif):
+Continuum intensity image of the Sun taken by the MDI instrument on board the SOHO satellite [annotated (1024x1024)](https://soho.nascom.nasa.gov/sunspots/) (updated daily) or [unannotated (4096x4096)](http://jsoc.stanford.edu/data/hmi/images/latest/HMI_latest_Int_4096x4096.gif) (updated every 12 min.):
 [<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="100%" align="center">](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
 
 SDO/HMI Quick-Look Continuum (2048x2048):
