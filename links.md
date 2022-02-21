@@ -18,7 +18,7 @@
 * [Solar Orbiter NASA Mission Page](https://science.nasa.gov/missions/solar-orbiter/)
 
 ## SDO (Solar Dynamic Observatory; NASA ) <a name="SDO"></a>
-* [SDO NASA Page](https://www.nasa.gov/mission_pages/sdo/how-sdo-sees-the-sun)
+* [SDO NASA Mission Page](https://www.nasa.gov/mission_pages/sdo/how-sdo-sees-the-sun)
 * [SDO Wikipedia Page](https://en.wikipedia.org/wiki/Solar_Dynamics_Observatory)
 * [SDO Data](https://sdo.gsfc.nasa.gov/data/)
 
