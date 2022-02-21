@@ -6,6 +6,7 @@
     * [Solar Orbiter](#SO)
     * [SDO](#SDO)
     * [SOHO](#SOHO)
+    * [STEREO](#STEREO)
 * [Observatories on Earth](#earthobs)
     * [GONG Network](#GONG)
 
@@ -29,6 +30,9 @@
 * [SOHO NASA Page](https://www.nasa.gov/mission_pages/soho/index.html)
 * [SOHO NASCOM Page](https://soho.nascom.nasa.gov/home.html)
 * [SOHO Wikipedia Page](https://en.wikipedia.org/wiki/Solar_and_Heliospheric_Observatory)
+
+## STEREO (NASA) <a name="STEREO"></a>
+* [STEREO NASCOM Page](https://stereo-ssc.nascom.nasa.gov/beacon/beacon_secchi.shtml)
 
 # Observatories on Earth <a name="earthobs"></a>
 ## GONG Network <a name="GONG"></a>
