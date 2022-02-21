@@ -23,6 +23,7 @@
 
 ### SDO Instruments
 #### HMI: Helioseismic and Magnetic Imager
+* [Latest HMI Images](http://jsoc.stanford.edu/data/hmi/images/latest/)
 #### AIA: Atmospheric Imaging Assembly
 #### EVE: Extreme Ultraviolet Variability Experiment
 
