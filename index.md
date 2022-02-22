@@ -28,6 +28,16 @@ SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_e
 [<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="49.7%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
 [<img src="http://www.daystarfilters.com/latest_gong_color.jpg" width="49.7%" align=center>](http://www.daystarfilters.com/latest_gong_color.jpg)
 
+SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg) (left), [Magnetogram](http://jsoc.stanford.edu/data/hmi/images/latest/) (right)
+
+[<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="49.7%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
+[<img src="http://jsoc.stanford.edu/data/hmi/images/latest/HMI_latest_color_Mag_1024x1024.jpg" width="49.7%" align=center >](http://jsoc.stanford.edu/data/hmi/images/latest/HMI_latest_color_Mag_1024x1024.jpg)
+
+SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg) (left), [HMI Active Region Patch](http://jsoc.stanford.edu/data/hmi/images/latest/) (right)
+
+[<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="49.7%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
+[<img src="http://jsoc.stanford.edu/doc/data/hmi/harp/harp_nrt/latest_nrt.png" width="49.7%" align=center >](http://jsoc.stanford.edu/doc/data/hmi/harp/harp_nrt/latest_nrt.png)
+
 [<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="49.7%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
 [<img src="http://obs.astro.ucla.edu/images/cur_drw.jpg" width="49.7%" align=center >](http://obs.astro.ucla.edu/images/cur_drw.jpg)
 
