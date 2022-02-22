@@ -38,9 +38,6 @@ SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_e
 [<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="49.7%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
 [<img src="http://jsoc.stanford.edu/doc/data/hmi/harp/harp_nrt/latest_nrt.png" width="49.7%" align=center >](http://jsoc.stanford.edu/doc/data/hmi/harp/harp_nrt/latest_nrt.png)
 
-[<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="49.7%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
-[<img src="http://obs.astro.ucla.edu/images/cur_drw.jpg" width="49.7%" align=center >](http://obs.astro.ucla.edu/images/cur_drw.jpg)
-
 See also [Intersing Links about the Sun](links.md)
 
 Page by [Ernesto Nicola](bio.md)
