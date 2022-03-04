@@ -2,6 +2,7 @@
 remote_theme: eecs485staff/primer-spec
 title: The Sun Now!
 description: View the current Sun from different satellite observatories
+name: Ernesto Nicola
 github:
   is_project_page: false
 # google_analytics: UA-222104143-1
