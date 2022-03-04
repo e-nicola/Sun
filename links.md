@@ -1,3 +1,7 @@
+---
+layout: spec
+---
+
 # Interesting links about the Sun
 
 ## Table of contents
