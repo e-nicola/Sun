@@ -1,4 +1,5 @@
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
+remote_theme: eecs485staff/primer-spec
 title: The Sun Now!
 description: View the current Sun from different satellite observatories
 github:
