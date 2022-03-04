@@ -1,3 +1,7 @@
+---
+layout: spec
+---
+
 # Overview of the Sun
 ## White Light Daily Views
 Continuum intensity image of the Sun taken by the HMI instrument on board the SDO satellite [annotated (1024x1024)](https://soho.nascom.nasa.gov/sunspots/) (updated daily) or [unannotated (4096x4096)](http://jsoc.stanford.edu/data/hmi/images/latest/HMI_latest_Int_4096x4096.gif) (updated every 12 min.):
