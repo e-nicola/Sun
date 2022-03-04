@@ -11,3 +11,4 @@ kramdown:
 readme_index:
   remove_originals: true
   with_frontmatter: true
+title: The Sun Now!
