@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
+title: The Sun Now!
+description: Views of the current Sun from different satellite observatories
 github:
   is_project_page: false
