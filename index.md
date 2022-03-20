@@ -1,8 +1,8 @@
-<!--
+<!---
 ---
 layout: spec
 ---
--->
+--->
 
 # Overview of the Sun
 ## White Light Daily Views
