@@ -41,3 +41,5 @@ SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_e
 See also [Intersing Links about the Sun](links.md)
 
 Page by [Ernesto Nicola](bio.md)
+
+{% include links.html %}
