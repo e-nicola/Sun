@@ -2,12 +2,13 @@
 ---
 layout: spec
 ---
--->
-
+--->
+<!---
 ---
 title: Home
 layout: default
 ---
+--->
 
 # Overview of the Sun
 ## White Light Daily Views
