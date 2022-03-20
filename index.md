@@ -42,4 +42,4 @@ See also [Intersing Links about the Sun](links.md)
 
 Page by [Ernesto Nicola](bio.md)
 
-{% include links.html %}
+{% include links.md %}
