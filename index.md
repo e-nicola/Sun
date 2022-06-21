@@ -15,8 +15,8 @@ The Sun in H-alpha from GONG ([original data](https://gong2.nso.edu/products/tab
 
 SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg) (left), [Latest HMI Intensitygram - Flattened](https://sdo.gsfc.nasa.gov/data/) (right):
 
-[<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="49.7%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
-[<img src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_2048_HMIIF.jpg" width="49.7%" align=center>](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_2048_HMIIF.jpg)
+[<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="45.7%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
+[<img src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_2048_HMIIF.jpg" width="45.7%" align=center>](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_2048_HMIIF.jpg)
 
 SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg) (left), [Latest](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMII.jpg) (right):
 
