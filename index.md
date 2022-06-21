@@ -33,7 +33,7 @@ SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_e
 [<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="49.5%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
 [<img src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIBC.jpg" width="49.5%" align=center >](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIBC.jpg)
 
-SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg) (left), [Magnetogram](http://jsoc.stanford.edu/data/hmi/images/latest/) (right):
+SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg) (left), [Magnetogram with calculated field lines of the solar magnetic field](http://jsoc.stanford.edu/data/hmi/images/latest/) (right):
 
 [<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="49.5%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
 [<img src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIBpfss.jpg" width="49.5%" align=center >](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIBpfss.jpg)
