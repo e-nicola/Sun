@@ -13,6 +13,7 @@ layout: spec
     * [STEREO](#STEREO)
 * [Observatories on Earth](#earthobs)
     * [GONG Network](#GONG)
+    * [SILSO Sunspot Number](#SILSO)
 
 # Observatories in Space <a name="spaceobs"></a>
 ## Parker Solar Probe <a name="PSP"></a>
@@ -47,3 +48,6 @@ layout: spec
 
 # Observatories on Earth <a name="earthobs"></a>
 ## GONG Network <a name="GONG"></a>
+* [GONG H-Alpha data](https://halpha.nso.edu/index.html)
+## SILSO (Sunspot Index and Long-term Solar Observations)  <a name="SILSO"></a>
+* [Sunspot number series: latest update](https://www.sidc.be/silso/dayssnplot)
