@@ -39,7 +39,7 @@ SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_e
 [<img src="http://jsoc.stanford.edu/doc/data/hmi/harp/harp_nrt/latest_nrt.png" width="49.5%" align=center >](http://jsoc.stanford.edu/doc/data/hmi/harp/harp_nrt/latest_nrt.png)
 
 ## Latest Sunspot Number
-Daily and monthly sunspot number (reported are last 13 years). Image from the [SILSO (Sunspot Index and Long-term Solar Observations)][SILSO]:
+Daily and monthly sunspot number (reported are the last 13 years). Image from the [SILSO (Sunspot Index and Long-term Solar Observations)][SILSO]:
 
 <img src="https://www.sidc.be/silso/IMAGES/GRAPHICS/wolfjmms.png" width="100%" align=center>
 
