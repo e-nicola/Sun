@@ -7,7 +7,7 @@ layout: spec
 Continuum intensity image of the Sun taken by the HMI instrument on board the SDO satellite [annotated (1024x1024)](https://soho.nascom.nasa.gov/sunspots/) (updated daily) or [unannotated (4096x4096)](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_4096_HMII.jpg) (updated every 12 min.):
 [<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="100%" align="center">](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
 
-## H-alpha Views
+## H-alpha Daily Views
 The Sun in H-alpha from GONG ([original data](https://gong2.nso.edu/products/tableView/table.php?configFile=configs/hAlpha.cfg)):
 [<img src="http://www.daystarfilters.com/latest_gong_color.jpg" width="100%" align=center>](http://www.daystarfilters.com/latest_gong_color.jpg)
 
