@@ -11,7 +11,7 @@ Continuum intensity image of the Sun taken by the HMI instrument on board the SD
 The Sun in H-alpha from GONG ([original data](https://gong2.nso.edu/products/tableView/table.php?configFile=configs/hAlpha.cfg)):
 [<img src="http://www.daystarfilters.com/latest_gong_color.jpg" width="100%" align=center>](http://www.daystarfilters.com/latest_gong_color.jpg)
 
-## Side to Side Daily Views
+## Comparison between Daily Views (side by side views)
 
 SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg) (left), [Latest HMI Intensitygram - Flattened](https://sdo.gsfc.nasa.gov/data/) (right):
 
@@ -38,6 +38,13 @@ SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_e
 [<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="49.5%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
 [<img src="http://jsoc.stanford.edu/doc/data/hmi/harp/harp_nrt/latest_nrt.png" width="49.5%" align=center >](http://jsoc.stanford.edu/doc/data/hmi/harp/harp_nrt/latest_nrt.png)
 
+## Latest Sunspot Number Report
+Daily and monthly sunspot number (last 13 years). Image from the [SILSO (Sunspot Index and Long-term Solar Observations)][SILSO]:
+
+<img src="https://www.sidc.be/silso/IMAGES/GRAPHICS/wolfjmms.png" width="100%" align=center>
+
 See also [Interesting Links about the Sun](links.md)
 
 Page by [Ernesto Nicola](bio_en.md)
+
+[SILSO]:https://www.sidc.be/silso/dayssnplot
