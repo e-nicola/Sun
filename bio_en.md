@@ -3,7 +3,7 @@
 
 Ernesto Nicola was born in Argentina, but now lives in Mallorca (Spain). Before coming to Mallorca, he lived a number of years in Germany, Spain and Sweden.
 
-He got a Doctorate in Physics (PhD) degree from the [Max Plank Institute for Physics of Complex Systems][MPIPKS] in Dresden (Germany) and a Master in Physics at [Instituto Balseiro][IB] in Bariloche (Argentina). He also worked as a professor and researcher in a number of universities and research institutes in Germany and Spain:
+He got a Doctor of Physics (PhD) degree from the [Max Plank Institute for Physics of Complex Systems][MPIPKS] in Dresden (Germany) and a Master in Physics at [Instituto Balseiro][IB] in Bariloche (Argentina). He also worked as a professor and researcher in a number of universities and research institutes in Germany and Spain:
 * [Technische Universität Dresden][TUD] (Germany),
 * [Technische Universität Berlin][TUB] (Germany),
 * [Universität Bayreuth][UBay] (Germany),
