@@ -43,6 +43,8 @@ Daily and monthly sunspot number (reported are the last 13 years). Image from th
 
 <img src="https://www.sidc.be/silso/IMAGES/GRAPHICS/wolfjmms.png" width="100%" align=center>
 
+[Sun images mirrored and rotated](index2.html)
+
 See also [Interesting Links about the Sun](links.md)
 
 Page by [Ernesto Nicola](bio_en.md)
