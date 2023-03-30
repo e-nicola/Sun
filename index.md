@@ -23,6 +23,11 @@ SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_e
 [<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="49.5%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
 [<img src="http://www.daystarfilters.com/latest_gong_color.jpg" width="49.5%" align=center>](http://www.daystarfilters.com/latest_gong_color.jpg)
 
+Mirrored SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg) (left), Mirrored [H-alpha](http://www.daystarfilters.com/latest_gong_color.jpg) (right):
+
+[<img style="transform: scaleX(-1);" src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="49.5%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
+[<img style="transform: scaleX(-1);" src="http://www.daystarfilters.com/latest_gong_color.jpg" width="49.5%" align=center>](http://www.daystarfilters.com/latest_gong_color.jpg)
+
 SDO Continuum: [Annotated](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg) (left), [Magnetogram](http://jsoc.stanford.edu/data/hmi/images/latest/) (right):
 
 [<img src="https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg" width="49.5%" align=center>](https://soho.nascom.nasa.gov/data/synoptic/sunspots_earth/mdi_sunspots_1024.jpg)
